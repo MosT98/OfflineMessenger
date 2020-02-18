@@ -1,1 +1,2 @@
 # OfflineMessenger
+OfflineMessenger project, accomplished for Computer Networks laboratory, is about creating a server that is capable to take different tasks from clients in a concurrent way. The project is like a chat application so a user can: register/login, see the conversation history or create a new conversation with one or more users logged in at the same. The project was implemented in C/C++.
